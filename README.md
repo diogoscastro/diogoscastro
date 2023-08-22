@@ -20,6 +20,6 @@
   <a href="https://instagram.com/castrodiogodasilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogo-castro-0012b448/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/diogoscastro/diogoscastro/blob/output/github-contribution-grid-snake.svg)
+  ![Guns N' Roses - Estranged](https://i.makeagif.com/media/6-28-2015/-iTsG7.gif)
 
 </div>
