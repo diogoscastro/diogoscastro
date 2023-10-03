@@ -18,7 +18,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-   <img src="https://i.makeagif.com/media/6-28-2015/-iTsG7.gif" alt="Guns N' Roses - Estranged" min-width="400px" max-width="400px" width="400px" align="right">
+   
 
    #### Secondary Stack:
    
