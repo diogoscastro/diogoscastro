@@ -1,3 +1,6 @@
+<img src="assets/banner.jpg" width="100%" alt="Banner do perfil de Diogo" />
+
+
 ### Olá! 👋 Eu sou o Diogo
 
 💻 Estudante de Desenvolvimento de Software Multiplataforma com foco em desenvolvimento **front-end**.  
