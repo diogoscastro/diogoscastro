@@ -7,7 +7,7 @@
 
 ### 👋 Olá! Eu sou o Diogo
 
-💻 Desenvolvedor front-end em formação, com foco em interfaces acessíveis, modernas e funcionais.
+💻 Desenvolvedor front-end em formação, com foco em interfaces acessíveis, modernas e funcionais.  
 🎓 Formado em Desenvolvimento de Software Multiplataforma e em constante evolução técnica.  
 🎯 Interesse especial por boas práticas de UI/UX, performance e acessibilidade.
 
