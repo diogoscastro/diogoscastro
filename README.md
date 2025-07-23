@@ -1,11 +1,15 @@
 <img src="assets/banner.jpg" width="100%" alt="Banner do perfil de Diogo" />
 
+<!--
+  TITLE: Diogo Castro | Desenvolvedor Front-end
+  DESCRIPTION: Portfólio de projetos, habilidades e informações de contato de Diogo Castro, desenvolvedor front-end focado em JavaScript, React e acessibilidade.
+-->
 
-### Olá! 👋 Eu sou o Diogo
+### 👋 Olá! Eu sou o Diogo
 
-💻 Estudante de Desenvolvimento de Software Multiplataforma com foco em desenvolvimento **front-end**.  
-🎯 Apaixonado por interfaces bem feitas, acessibilidade e experiências visuais de qualidade.  
-🚀 Em constante aprendizado com **HTML**, **CSS** e **JavaScript**.
+💻 Desenvolvedor front-end em formação, com foco em interfaces acessíveis, modernas e funcionais.
+🎓 Formado em Desenvolvimento de Software Multiplataforma e em constante evolução técnica.  
+🎯 Interesse especial por boas práticas de UI/UX, performance e acessibilidade.
 
 ---
 
@@ -22,10 +26,29 @@
 ### 📌 Projetos em Destaque
 
 - 🎮 **[Projeto Mario Bros](https://github.com/diogoscastro/projeto-mario-bros)**  
-  Uma página interativa baseada no universo do Mario Bros com HTML, CSS e JS.
+  Landing page interativa inspirada no universo Mario Bros. Projeto focado em manipulação do DOM, responsividade e efeitos com JavaScript puro.
 
 - ✅ **[To-Do List com Node.js e MongoDB](https://github.com/diogoscastro/to-do-list-mvc-node-mongo)**  
-  Aplicação de lista de tarefas seguindo o padrão MVC com Node.js e MongoDB.
+  Aplicação web CRUD usando o padrão MVC. Backend com Node.js, Express e MongoDB, ideal para praticar organização de rotas e persistência de dados.
+
+---
+
+### 📚 Aprendizado Atual
+
+Atualmente estudando:
+
+- React.js com foco em componentização e consumo de APIs.  
+- Automação com ferramentas no-code (n8n, Make).  
+- Fundamentos de Python para integrações e back-end com Django.
+
+---
+
+### 🤝 Como posso contribuir em equipes
+
+- Facilidade em aprender rápido e se adaptar a novas tecnologias.  
+- Organização com tarefas e código limpo.  
+- Interesse real em entregar experiências de usuário intuitivas.  
+- Proativo na resolução de bugs e melhorias visuais.
 
 ---
 
