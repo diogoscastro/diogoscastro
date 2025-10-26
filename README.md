@@ -1,5 +1,3 @@
-<img src="assets/banner.jpg" width="100%" alt="Banner do perfil de Diogo" />
-
 <!--
   TITLE: Diogo Castro | Desenvolvedor Front-end
   DESCRIPTION: Portfólio de projetos, habilidades e informações de contato de Diogo Castro, desenvolvedor front-end focado em JavaScript, React e acessibilidade.
