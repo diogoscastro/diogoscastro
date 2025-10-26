@@ -27,13 +27,6 @@
 
 ---
 
-### 📌 Projetos em Destaque
-
-- 🎮 **[Projeto Mario Bros](https://github.com/diogoscastro/projeto-mario-bros)**  
-  Landing page interativa inspirada no universo Mario Bros. Projeto focado em manipulação do DOM, responsividade e efeitos com JavaScript puro.
-
-- ✅ **[To-Do List com Node.js e MongoDB](https://github.com/diogoscastro/to-do-list-mvc-node-mongo)**  
-  Aplicação web CRUD usando o padrão MVC. Backend com Node.js, Express e MongoDB, ideal para praticar organização de rotas e persistência de dados.
 
 ---
 
@@ -42,8 +35,6 @@
 Atualmente estudando:
 
 - React.js com foco em componentização e consumo de APIs.  
-- Automação com ferramentas no-code (n8n, Make).  
-- Fundamentos de Python para integrações e back-end com Django.
 
 ---
 
